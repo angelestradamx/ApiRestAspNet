@@ -1,0 +1,88 @@
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\MiApiRest.dll.config
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\MiApiRest.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\MiApiRest.pdb
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\csc.exe
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\csc.exe.config
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\csc.rsp
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\csi.exe
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\csi.rsp
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\System.AppContext.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\vbc.exe
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\vbc.exe.config
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\vbc.rsp
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\Newtonsoft.Json.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\System.Net.Http.Formatting.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\System.Web.Http.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\System.Web.Http.WebHost.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\Newtonsoft.Json.xml
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\System.Net.Http.Formatting.xml
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\System.Web.Http.xml
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\System.Web.Http.WebHost.xml
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\obj\Debug\MiApiRest.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\obj\Debug\MiApiRest.csproj.CopyComplete
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\obj\Debug\MiApiRest.dll
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\obj\Debug\MiApiRest.pdb
+C:\Users\Angel\Desktop\MiApiRest\MiApiRest\obj\Debug\MiApiRest.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\MiApiRest.dll.config
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\MiApiRest.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\MiApiRest.pdb
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\csc.exe
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\csc.exe.config
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\csc.rsp
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\csi.exe
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\csi.rsp
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\System.AppContext.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\vbc.exe
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\vbc.exe.config
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\vbc.rsp
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\Newtonsoft.Json.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\System.Net.Http.Formatting.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\System.Web.Http.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\System.Web.Http.WebHost.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\Newtonsoft.Json.xml
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\System.Net.Http.Formatting.xml
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\System.Web.Http.xml
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\System.Web.Http.WebHost.xml
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\obj\Debug\MiApiRest.csprojAssemblyReference.cache
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\obj\Debug\MiApiRest.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\obj\Debug\MiApiRest.csproj.CopyComplete
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\obj\Debug\MiApiRest.dll
+C:\Users\Angel\Desktop\EJEMPLOS PROGRA\MiApiRest\MiApiRest\obj\Debug\MiApiRest.pdb
